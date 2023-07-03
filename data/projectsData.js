@@ -10,29 +10,29 @@ import {
 export const projectsData = [
 	{
 		id: 1,
-		title: 'Google Health Platform',
+		title: 'Toy Zone BD',
 		url: 'google-health-platform',
 		category: 'Web Application',
 		img: '/images/web-project-2.jpg',
 		ProjectHeader: {
-			title: 'Google Health Platform',
+			title: 'Toy Zone BD',
 			publishDate: 'Jul 26, 2021',
 			tags: 'UI / Frontend',
 		},
 		ProjectImages: [
 			{
 				id: uuidv4(),
-				title: 'Google Health Platform',
+				title: 'Toy Zone BD',
 				img: '/images/ui-project-1.jpg',
 			},
 			{
 				id: uuidv4(),
-				title: 'Google Health Platform',
+				title: 'Toy Zone BD',
 				img: '/images/web-project-2.jpg',
 			},
 			{
 				id: uuidv4(),
-				title: 'Google Health Platform',
+				title: 'Toy Zone BD',
 				img: '/images/mobile-project-2.jpg',
 			},
 		],
@@ -42,7 +42,7 @@ export const projectsData = [
 				{
 					id: uuidv4(),
 					title: 'Name',
-					details: 'Company Ltd',
+					details: 'Blue Pill Ltd',
 				},
 				{
 					id: uuidv4(),
@@ -136,29 +136,29 @@ export const projectsData = [
 	},
 	{
 		id: 2,
-		title: 'Phoenix Digital Agency',
+		title: 'Black Cumin Bangladesh',
 		url: 'phoenix-digital-agency',
 		category: 'Mobile Application',
 		img: '/images/mobile-project-2.jpg',
 		ProjectHeader: {
-			title: 'Phoenix Digital Agency',
+			title: 'Black Cumin Bangladesh',
 			publishDate: 'Jul 26, 2021',
 			tags: 'Mobile Application',
 		},
 		ProjectImages: [
 			{
 				id: uuidv4(),
-				title: 'Phoenix Digital Agency',
+				title: 'Black Cumin Bangladesh',
 				img: '/images/ui-project-1.jpg',
 			},
 			{
 				id: uuidv4(),
-				title: 'Phoenix Digital Agency',
+				title: 'Black Cumin Bangladesh',
 				img: '/images/web-project-2.jpg',
 			},
 			{
 				id: uuidv4(),
-				title: 'Phoenix Digital Agency',
+				title: 'Black Cumin Bangladesh',
 				img: '/images/mobile-project-2.jpg',
 			},
 		],
@@ -168,7 +168,7 @@ export const projectsData = [
 				{
 					id: uuidv4(),
 					title: 'Name',
-					details: 'Company Ltd',
+					details: 'Blue Pill Ltd',
 				},
 				{
 					id: uuidv4(),
@@ -262,29 +262,29 @@ export const projectsData = [
 	},
 	{
 		id: 3,
-		title: 'Project Management UI',
+		title: 'Learning Language School',
 		url: 'project-management-ui',
 		category: 'UI/UX Design',
 		img: '/images/ui-project-1.jpg',
 		ProjectHeader: {
-			title: 'Project Management UI',
+			title: 'Learning Language School',
 			publishDate: 'Jul 26, 2021',
 			tags: 'UI / Frontend',
 		},
 		ProjectImages: [
 			{
 				id: uuidv4(),
-				title: 'Kabul Project Management UI',
+				title: ' Learning Language School',
 				img: '/images/ui-project-1.jpg',
 			},
 			{
 				id: uuidv4(),
-				title: 'Kabul Project Management UI',
+				title: ' Learning Language School',
 				img: '/images/web-project-2.jpg',
 			},
 			{
 				id: uuidv4(),
-				title: 'Kabul Project Management UI',
+				title: ' Learning Language School',
 				img: '/images/mobile-project-2.jpg',
 			},
 		],
@@ -294,7 +294,7 @@ export const projectsData = [
 				{
 					id: uuidv4(),
 					title: 'Name',
-					details: 'Company Ltd',
+					details: 'Blue Pill Ltd',
 				},
 				{
 					id: uuidv4(),
@@ -400,17 +400,17 @@ export const projectsData = [
 		ProjectImages: [
 			{
 				id: uuidv4(),
-				title: 'Kabul Cloud Storage Platform',
+				title: ' Cloud Storage Platform',
 				img: '/images/ui-project-1.jpg',
 			},
 			{
 				id: uuidv4(),
-				title: 'Kabul Cloud Storage Platform',
+				title: ' Cloud Storage Platform',
 				img: '/images/web-project-2.jpg',
 			},
 			{
 				id: uuidv4(),
-				title: 'Kabul Cloud Storage Platform',
+				title: ' Cloud Storage Platform',
 				img: '/images/mobile-project-2.jpg',
 			},
 		],
@@ -420,7 +420,7 @@ export const projectsData = [
 				{
 					id: uuidv4(),
 					title: 'Name',
-					details: 'Company Ltd',
+					details: 'Blue Pill Ltd',
 				},
 				{
 					id: uuidv4(),
@@ -546,7 +546,7 @@ export const projectsData = [
 				{
 					id: uuidv4(),
 					title: 'Name',
-					details: 'Company Ltd',
+					details: 'Blue Pill Ltd',
 				},
 				{
 					id: uuidv4(),
@@ -652,17 +652,17 @@ export const projectsData = [
 		ProjectImages: [
 			{
 				id: uuidv4(),
-				title: 'Kabul Apple New Design System',
+				title: ' Apple New Design System',
 				img: '/images/ui-project-1.jpg',
 			},
 			{
 				id: uuidv4(),
-				title: 'Kabul Apple New Design System',
+				title: ' Apple New Design System',
 				img: '/images/web-project-2.jpg',
 			},
 			{
 				id: uuidv4(),
-				title: 'Kabul Apple New Design System',
+				title: ' Apple New Design System',
 				img: '/images/mobile-project-2.jpg',
 			},
 		],
@@ -672,7 +672,7 @@ export const projectsData = [
 				{
 					id: uuidv4(),
 					title: 'Name',
-					details: 'Company Ltd',
+					details: 'Blue Pill Ltd',
 				},
 				{
 					id: uuidv4(),
